@@ -99,3 +99,46 @@ nohup java -jar halo-latest.jar >/dev/null 2>&1&
 ![admin-profile.png](https://i.loli.net/2019/05/08/5cd2fccee89f5.png)
 
 ![admin-options.png](https://i.loli.net/2019/05/08/5cd2fccedc309.png)
+
+> By LC
+
+halo-dev/halo: ✍ Halo 一款现代化的个人独立博客系统
+https://github.com/halo-dev/halo
+
+用户名 ahviplc
+
+昵称   ahviplc
+
+密码   ahviplc123
+
+邮箱   ahlc@sina.cn
+
+mysql数据库驱动
+
+一加一博客最Top By Halo
+
+http://192.168.0.16:8090
+
+一加一博客最Top By Halo 后台管理
+
+http://192.168.0.16:8090/admin
+
+2019年7月23日16:08:25
+
+主题:
+
+https://github.com/halo-dev/halo-theme-next
+
+**欢迎来到 [LC博客-一加壹博客最Top](http://www.oneplusone.vip)**
+
+**欢迎来到 [LC-Gitlab](https://gitlab.com/ahviplc)**
+
+**欢迎来到 [LC-Github](https://github.com/ahviplc)**
+
+**欢迎来到 [LC-Github-halo](https://github.com/ahviplc/halo)**
+
+> ### LC最寄语：永远不要放弃自己心中最初的最初的理想！~LC
+
+> from **2019年7月23日16:51:05**
+
+> to **future**
